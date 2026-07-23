@@ -29,7 +29,7 @@ I am currently working as an **open source developer**.
 
 Assuming ~1GB/sec SSD
 
-![Visual representation of latencies](./pics/latency.png)
+![Visual representation of latencies](./pics/01.png)
 
 
 
